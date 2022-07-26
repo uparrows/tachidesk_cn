@@ -21,4 +21,7 @@ pc端效果：
 ![004](https://user-images.githubusercontent.com/38988286/180903374-ad6a8ddd-85f8-4023-88ff-5b4df2bd1c1c.jpg)
 
 dockerhub:https://hub.docker.com/repository/docker/dezhao/tachidesk_cn
+
+视频教程：https://www.bilibili.com/video/BV1Qe4y197u1
+
 请勿转载到CSDN！！
