@@ -2,7 +2,7 @@
 
 chinese translation of Suwayomi/Tachidesk-Server. 
 
-这是tachidesk-server的汉化版，chinese translation of repo tachidesk-server
+这是tachidesk-server的汉化版
 由于打包后的jar文件超过100m，试了好多次无法上传，需要的pm我
 
 tachiyomi阅读器的web版本，和安卓版、ios版的差不多，不过这货是安装在nas上，通过web访问。
