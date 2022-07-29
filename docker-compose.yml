@@ -1,0 +1,13 @@
+services:
+  tachidesk_cn:
+    image: dezhao/tachidesk_cn
+    container_name: tachidesk_cn
+    environment:
+      - PUID=1026
+      - PGID=100 #群晖为1026、100，其他为1000、1000
+      - TZ=Asia/Shanghai
+    volumes:
+      - 本地路径:/root/.local/share/Tachidesk  #将“本地路径”替换为在设备建立的文件夹路径
+    ports:
+      - 4567:4567 #按需更改端口
+    restart: always
