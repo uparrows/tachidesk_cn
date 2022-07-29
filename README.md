@@ -25,3 +25,5 @@ dockerhub:https://hub.docker.com/repository/docker/dezhao/tachidesk_cn
 视频教程：https://www.bilibili.com/video/BV1Qe4y197u1
 
 请勿转载到CSDN！！
+
+@coeoe 添加docker-compose，修改下docker-compose.yml里的挂载路径和端口，定位到docker-compose.yml所在文件夹，运行 sudo docker-compose up即可快速完成部署
